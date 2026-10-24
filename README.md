@@ -1,2 +1,1 @@
-# RootMart
-RootMart is an AI-powered multi-tenant e-commerce platform built with Next.js, TypeScript, PostgreSQL, Stripe Connect, Redis, and modern SaaS architecture. It enables businesses to manage independent stores with payments, inventory, analytics, background jobs, audit logs, email automation, multilingual support, and AI-powered customer assistance.
+MeetZapp is a real-time communication platform featuring instant messaging, group conversations, live message translation, online presence, invite codes, and file sharing. Built to deliver seamless, multilingual collaboration through a modern full-stack architecture.
